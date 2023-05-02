@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-02 16:38:34 by Eclipse SUMO GUI Version 1.15.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="E:\Design Lab\b10 c200\osm.net.xml.gz"/>
+        <route-files value="E:\Design Lab\b10 c200\osm_pt.rou.xml,E:\Design Lab\b10 c200\osm.bus.trips.xml,E:\Design Lab\b10 c200\osm.passenger.trips.xml"/>
+        <additional-files value="E:\Design Lab\b10 c200\osm.poly.xml.gz,E:\Design Lab\b10 c200\osm_stops.add.xml"/>
+    </input>
+
+    <output>
+        <emission-output value="E:\Design Lab\b10 c200\emissions_c200_b10.xml"/>
+        <tripinfo-output value="E:\Design Lab\b10 c200\tripinfo_c200_b10.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="600"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-steps value="18"/>
+        <device.rerouting.adaptation-interval value="10"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="E:\Design Lab\b10 c200\osm.view.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+</tripinfos>
