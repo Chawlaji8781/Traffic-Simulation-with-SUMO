@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-03-06 00:04:30.470974 by randomTrips.py v1_15_0+0002-e6790248698
+<configuration>
+    <end value="10"/>
+    <net-file value="demoTL.net.xml"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="E12" to="-E10"/>
+    <trip id="1" depart="1.00" from="-E15" to="-E14"/>
+    <trip id="2" depart="2.00" from="E14" to="E13"/>
+    <trip id="3" depart="3.00" from="E17" to="-E11"/>
+    <trip id="4" depart="4.00" from="-E18" to="-E10"/>
+    <trip id="5" depart="5.00" from="-E14" to="E10"/>
+    <trip id="6" depart="6.00" from="-E10" to="-E13"/>
+    <trip id="7" depart="7.00" from="E12" to="E10"/>
+    <trip id="8" depart="8.00" from="-E14" to="E11"/>
+    <trip id="9" depart="9.00" from="E16" to="-E10"/>
+</routes>
